@@ -7,11 +7,11 @@
 <script setup>
 const count = ref(0);
 
-function increment() {
+const increment = () => {
   count.value++;
 }
 
-function decrement() {
+const decrement = () => {
   count.value--;
 }
 </script>

@@ -1,8 +1,8 @@
 <template>
-  <p>Welcome Sarthak</p>
+  <p>Welcome User</p>
 </template>
 
-<script>
+<script setup>
 definePageMeta({
   layout: "sidebar",
   middleware: ["auth"],

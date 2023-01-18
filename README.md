@@ -1,1 +1,1 @@
-# Nuxt course 2022
+# Nuxt JS 3. Composition API using

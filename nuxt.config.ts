@@ -4,7 +4,7 @@ import { defineNuxtConfig } from "nuxt";
 export default defineNuxtConfig({
   css: ["assets/css/tailwind.css"],
   meta: {
-    title: "Nuxt3 course",
+    title: "Nuxt3 Composition API",
   },
   build: {
     postcss: {

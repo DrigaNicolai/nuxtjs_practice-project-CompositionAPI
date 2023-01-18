@@ -11,7 +11,7 @@
 <script setup>
 const page = ref("home");
 
-function view(name) {
+const view = (name) => {
   page.value = name;
 }
 </script>

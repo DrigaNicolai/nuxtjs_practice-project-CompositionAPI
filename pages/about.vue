@@ -2,9 +2,9 @@
   <div>Hello About</div>
 </template>
 
-<script>
+<script setup>
 definePageMeta({
   layout: false,
-  title: "About",
+  title: "About page",
 });
 </script>
